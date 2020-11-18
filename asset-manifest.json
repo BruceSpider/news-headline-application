@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/news-headline-application/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/news-headline-application/static/js/main.9d906ec9.chunk.js",
+    "main.js.map": "/news-headline-application/static/js/main.9d906ec9.chunk.js.map",
+    "runtime-main.js": "/news-headline-application/static/js/runtime-main.6fe95a9b.js",
+    "runtime-main.js.map": "/news-headline-application/static/js/runtime-main.6fe95a9b.js.map",
+    "static/css/2.9dc952af.chunk.css": "/news-headline-application/static/css/2.9dc952af.chunk.css",
+    "static/js/2.97c9e817.chunk.js": "/news-headline-application/static/js/2.97c9e817.chunk.js",
+    "static/js/2.97c9e817.chunk.js.map": "/news-headline-application/static/js/2.97c9e817.chunk.js.map",
+    "index.html": "/news-headline-application/index.html",
+    "static/css/2.9dc952af.chunk.css.map": "/news-headline-application/static/css/2.9dc952af.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/news-headline-application/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.97c9e817.chunk.js.LICENSE.txt": "/news-headline-application/static/js/2.97c9e817.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/news-headline-application/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe95a9b.js",
+    "static/css/2.9dc952af.chunk.css",
+    "static/js/2.97c9e817.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.9d906ec9.chunk.js"
+  ]
+}
